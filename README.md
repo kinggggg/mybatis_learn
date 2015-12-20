@@ -1,2 +1,2 @@
 # mybatis_learn
-learn mybatis
+mybatis和spring的集成；并使用spring管理dao的实现
